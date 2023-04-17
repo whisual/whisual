@@ -1,7 +1,7 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Vishal Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.cnet.com/a/img/resize/8961558546e1b870a4ca0890be7038d357f2eb62/hub/2021/12/13/d319cda7-1ddd-4855-ac55-9dcd9ce0f6eb/unnamed.png?auto=webp&fit=crop&height=675&width=1200">
+<img align="right" alt="Coding" width="400" border-radius="50%" src="https://www.cnet.com/a/img/resize/8961558546e1b870a4ca0890be7038d357f2eb62/hub/2021/12/13/d319cda7-1ddd-4855-ac55-9dcd9ce0f6eb/unnamed.png?auto=webp&fit=crop&height=675&width=1200">
 
 
 
